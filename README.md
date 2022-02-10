@@ -29,4 +29,4 @@ Conocimientos básicos e intermedios en:
 </ul>
 
      Llegaste muy lejos toma una galleta
- <img src="![image](https://user-images.githubusercontent.com/60556445/153493785-d2bfd774-8417-46e6-a28a-c2302ff9d9f0.png)" width="50%"/>
+ <img src="https://user-images.githubusercontent.com/60556445/153493785-d2bfd774-8417-46e6-a28a-c2302ff9d9f0.png" width="50%"/>
