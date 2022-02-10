@@ -1,7 +1,7 @@
 "# PlatinumKnight" 
 !Bienvenidos a mi pequeña sección¡ 🏆
 
-<img src="https://www.xtrafondos.com/wallpapers/edificios-ciudad-de-noche-3183.jpg" width="50%"/>
+<img src="https://www.xtrafondos.com/wallpapers/edificios-ciudad-de-noche-3183.jpg"/>
  
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
 
