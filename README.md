@@ -1,7 +1,7 @@
 "# PlatinumKnight" 
 !Bienvenidos a mi pequeña sección¡ 🏆
 
-<img src="https://ih1.redbubble.net/image.2260970339.3204/st,small,507x507-pad,600x600,f8f8f8.jpg" width="50%"/>
+<img src="https://ih1.redbubble.net/image.2592983827.6039/st,small,507x507-pad,600x600,f8f8f8.jpg" width="50%"/>
  
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
 
@@ -21,14 +21,12 @@ Conocimientos básicos e intermedios en:
   <li>JS 🟩</li>
   <li>HTML 🟩</li>
   <li>C# 🟩</li>
-  
   <li>CSS 🟨</li>
   <li>SASS 🟨</li>
-  
   <li>React🟩</li>
- 
   <li>SQL Server 🟥</li>
   <li>PostgresSQL 🟥</li>
-  
 </ul>
 
+     Llegaste muy lejos toma una galleta
+ <img src="![image](https://user-images.githubusercontent.com/60556445/153493785-d2bfd774-8417-46e6-a28a-c2302ff9d9f0.png)" width="50%"/>
