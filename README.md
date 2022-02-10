@@ -1,7 +1,7 @@
 "# PlatinumKnight" 
 !Bienvenidos a mi pequeña sección¡ 🏆
 
-![(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg)]
+![](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg)
 
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%" text-align="center" />
 
