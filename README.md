@@ -1,9 +1,9 @@
 "# PlatinumKnight" 
-Bienvenidos a mi pequeña seccion 🏆
+!Bienvenidos a mi pequeña sección¡ 🏆
 
-Soy un estudiante del Institituo tecnologico de Tijuana, orgullosamente galgo! 🔥
+!Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
 
-Conocimientos basicos e intermedios en:
+Conocimientos básicos e intermedios en:
 <ul>
   <li>JS 🟩</li>
   <li>HTML 🟩</li>
@@ -18,5 +18,4 @@ Conocimientos basicos e intermedios en:
   <li>PostgresSQL 🟥</li>
   
 </ul>
-<italic> Hola </italic>
-*This text is italicized*
+
