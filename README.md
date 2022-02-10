@@ -1,7 +1,9 @@
 "# PlatinumKnight" 
 !Bienvenidos a mi pequeña sección¡ 🏆
 
-                    <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%" text-align="center" />
+![(https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg)]
+
+<img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%" text-align="center" />
 
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
 
