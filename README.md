@@ -2,7 +2,7 @@
 !Bienvenidos a mi pequeña sección¡ 🏆
 
 <center>
-  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%" text-align="center" />
+  <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%"/>
 </center>
 
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
