@@ -4,6 +4,7 @@
 <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_18.jpg" width="50%" text-align="center" />
 
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
+
                                                                               HORARIO DE CLASES
 |       | Lunes                                      | Martes                                     | Miercoles                                  | Jueves                                      | Viernes                             |
 |-------|--------------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------|-------------------------------------|
