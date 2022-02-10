@@ -5,7 +5,7 @@
 
 !Soy un estudiante del Instituto tecnológico de Tijuana, orgullosamente galgo¡ 🔥
 
-                                                                              HORARIO DE CLASES
+                                                                     HORARIO DE CLASES
 |       | Lunes                                      | Martes                                     | Miercoles                                  | Jueves                                      | Viernes                             |
 |-------|--------------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------|-------------------------------------|
 | 14:00 | ADMINISTRACION Y SEGURIDAD DE REDES        | ADDMINISTRACION Y SEGURIDAD DE REDES       | ADMINISTRACION Y SEGURIDAD DE REDES        | ADMINISTRACION Y SEGURIDAD DE REDES         | ADMINISTRACION Y SEGURIDAD DE REDES |
